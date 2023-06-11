@@ -15,4 +15,5 @@ public class MainController {
     public String fail() {
         return "fail";
     }
+
 }
